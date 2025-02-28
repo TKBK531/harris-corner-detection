@@ -1,0 +1,46 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+
+# Environment files
+.env
+.venv
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files
+*.csv
+*.log
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+
+# Temporary files
+/tmp/
+*.tmp
+*.bak
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+
+# Miscellaneous
+*.swp
+*.swo
